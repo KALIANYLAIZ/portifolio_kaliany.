@@ -1,0 +1,61 @@
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('ka')
+  
+}
+
+function getUrl(){
+  var url =ScriptApp.getService().getUrl();
+  return url;
+}
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+   
+    <h1>Pagina que calcula o valor da merenda</h1>
+     
+     <label for="numeroDias">Número de dias do mês:</label>
+     <input type="number" id="numeroDias">
+
+     <label for="quantidadeAlunos">Quantidadede de alunos da escola:</label>
+     <input type="number" id="quantidadeAlunos">
+
+     <label for="valorRefeicao">Valor da refeição por dia:</label>
+     <input type="number" id="valorRefeicao">
+
+
+     <button onclick="valor()"> Valor </button> 
+
+      <div>
+        <p>Resultado </p>
+        <p id="resultadoValor"></p>
+      </div>
+      
+       <script>
+
+        function Valor(){
+
+          var numeroDias = parseFloat(document.getElementById('numeroDias').value);
+          var quantidadeAlunos = parseFloat(document.getElementById('quantidadeAlunos').value);
+          var valorRefeicao = parseFloat(document.getElementById('valorRefeicao').value);
+         
+
+          google.script.run.whithSuccessHadler(valor).valor(numeroDias,quantidadeAlunos, valorRefeicao);
+
+        }
+        function valor(valor){
+            
+            var resultadoValor = document.getElementById('resultadoValor');
+            resultadoValor.innerHTML = valor;
+
+
+          }
+          </script>
+
+
+  </body>
+</html>
