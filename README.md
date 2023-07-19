@@ -70,11 +70,11 @@ Tecnologia Utilizadas:
  Link para acesso ao projeto:
  <a href="https://script.google.com/macros/s/AKfycbzcQPQTnWK-ZdRmtrOVWhUXUDBWHnbXEKa1Hu6z60VURBLjByLkVwNMKTMy7-rOWsQ/exec">Formulário</a>
  
-<h1>Projeto: Página para fazer Um cálculo do combustivel</h1>
+<h1>Projeto: Página para fazer Um cálculo do valor da merenda</h1>
 
 Arquivo (s):
 <ul>
-  <li>Calcular</li>
+  <li>lista de exercícios</li>
 </ul>
 
 Descrição: Página Web para fazer um calculo.
@@ -85,4 +85,4 @@ Tecnologia Utilizadas:
   </ul>
   
  Link para acesso ao projeto:
- <a href="https://script.google.com/macros/s/AKfycbxjMhUe3pdkLp1s4HAJjit33Ta6ndaYmf7z0nc6ZKZuZP4_mN0ihWILgC340ahGZGUl/exec">cálculo</a>
+ < a href="https://script.google.com/macros/s/AKfycbwvsXcpF4ecolWLOFlAfmP6m1yEVoVqnVrD3cDF5AIpDI7x-JYY1VXfscry0MEVZylt/exec">lista de exercícios</a>
