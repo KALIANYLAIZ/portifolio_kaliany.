@@ -85,4 +85,4 @@ Tecnologia Utilizadas:
   </ul>
   
  Link para acesso ao projeto:
- < a href="https://script.google.com/macros/s/AKfycbwvsXcpF4ecolWLOFlAfmP6m1yEVoVqnVrD3cDF5AIpDI7x-JYY1VXfscry0MEVZylt/exec">lista de exercícios</a>
+ <a href="https://script.google.com/macros/s/AKfycbwvsXcpF4ecolWLOFlAfmP6m1yEVoVqnVrD3cDF5AIpDI7x-JYY1VXfscry0MEVZylt/exec">lista de exercícios</a>
